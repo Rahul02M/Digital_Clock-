@@ -1,5 +1,5 @@
 # Digital_Clock⏰
-This JavaScript Mini project we will make a Digital clock⏰ that will display the current time in Hours, Minutes and second. 
+This JavaScript Mini project i will make a Digital clock⏰ that will display the current time in Hours, Minutes and second. 
 This JavaScript clock display the time as per Local time zone. Usimg HTML and CSS to design this Clock⏰, 
 and for Updating the current time it will use JavaScript Date Object.
 
